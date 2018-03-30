@@ -1,0 +1,22 @@
+[
+    {
+        "type": "list",
+        "name": "question-1",
+        "message": "Are you sure?",
+        "choices": [
+            "yes",
+            "no",
+            "maybe"
+        ]
+    },
+    {
+        "type": "list",
+        "name": "question-2",
+        "message": "Whats up?",
+        "choices": [
+            "hey",
+            "yo",
+            "sup fam"
+        ]
+    }
+]
